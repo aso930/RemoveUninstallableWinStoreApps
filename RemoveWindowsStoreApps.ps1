@@ -1,4 +1,4 @@
-﻿$appsarray = "WindowsFeedback", "ContactSupport", "windowscommunicationsapps", "WindowsCamera", "XboxApp", "ZuneMusic", "ZuneMusic", "ZuneVideo", "WindowsMaps", "WindowsSoundRecorder", "People", "CommsPhone", "WindowsAlarms"
+﻿$appsarray = "WindowsFeedback", "ContactSupport", "windowscommunicationsapps", "WindowsCamera", "XboxApp", "OneNote", "ZuneMusic", "ZuneVideo", "WindowsMaps", "WindowsSoundRecorder", "People", "CommsPhone", "WindowsAlarms"
 
 
 $title = "Remove Windows Store Apps"
